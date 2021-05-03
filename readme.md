@@ -1,1 +1,1 @@
-(space.png)
+!(/space.png)
